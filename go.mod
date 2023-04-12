@@ -1,3 +1,3 @@
-module github.com/xoltawn/simple-file-storage-file-service-sharedparts
+module github.com/xoltawn/simple-file-storage-sharedparts
 
 go 1.19
